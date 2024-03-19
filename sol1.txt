@@ -1,1 +1,8 @@
-bjhbdkasdb 
+s = 'python is a programming language'
+L = s.split()
+res = []
+for word in L:
+    if len(word) % 2 == 0:
+        res.append(word)
+
+print(res)
