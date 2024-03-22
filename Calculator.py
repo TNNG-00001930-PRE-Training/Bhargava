@@ -58,6 +58,6 @@ def calculator():
             print("We are Exiting from calculator!")
             break
         else:
-            print("Please select options from 1 to 5")
+            print("Please select options from a to e")
 
 calculator()
